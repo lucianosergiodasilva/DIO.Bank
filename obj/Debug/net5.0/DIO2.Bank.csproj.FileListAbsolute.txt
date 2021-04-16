@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\DIO\DIO2.Bank\bin\Debug\net5.0\DIO2.Bank.exe
+D:\AprendendoCSharp\DIO\DIO2.Bank\bin\Debug\net5.0\DIO2.Bank.deps.json
+D:\AprendendoCSharp\DIO\DIO2.Bank\bin\Debug\net5.0\DIO2.Bank.runtimeconfig.json
+D:\AprendendoCSharp\DIO\DIO2.Bank\bin\Debug\net5.0\DIO2.Bank.runtimeconfig.dev.json
+D:\AprendendoCSharp\DIO\DIO2.Bank\bin\Debug\net5.0\DIO2.Bank.dll
+D:\AprendendoCSharp\DIO\DIO2.Bank\bin\Debug\net5.0\ref\DIO2.Bank.dll
+D:\AprendendoCSharp\DIO\DIO2.Bank\bin\Debug\net5.0\DIO2.Bank.pdb
+D:\AprendendoCSharp\DIO\DIO2.Bank\obj\Debug\net5.0\DIO2.Bank.csprojAssemblyReference.cache
+D:\AprendendoCSharp\DIO\DIO2.Bank\obj\Debug\net5.0\DIO2.Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\DIO\DIO2.Bank\obj\Debug\net5.0\DIO2.Bank.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\DIO\DIO2.Bank\obj\Debug\net5.0\DIO2.Bank.AssemblyInfo.cs
+D:\AprendendoCSharp\DIO\DIO2.Bank\obj\Debug\net5.0\DIO2.Bank.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\DIO\DIO2.Bank\obj\Debug\net5.0\DIO2.Bank.dll
+D:\AprendendoCSharp\DIO\DIO2.Bank\obj\Debug\net5.0\ref\DIO2.Bank.dll
+D:\AprendendoCSharp\DIO\DIO2.Bank\obj\Debug\net5.0\DIO2.Bank.pdb
+D:\AprendendoCSharp\DIO\DIO2.Bank\obj\Debug\net5.0\DIO2.Bank.genruntimeconfig.cache
